@@ -1,0 +1,341 @@
+# Copyright (C) 2015 WPZOO
+# This file is distributed under the GNU General Public License v3.
+msgid ""
+msgstr ""
+"Project-Id-Version: PENGU!N Gold 1.0.beta\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2015-02-12 17:20:28+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.0\n"
+
+#: comments.php:34 comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:35 comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:36 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:45
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:64
+msgid "PENGU!N image size"
+msgstr ""
+
+#: functions.php:88 inc/customizer-options.php:118
+#: inc/customizer-options.php:129
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:41
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer-options.php:28
+msgid "Your logo"
+msgstr ""
+
+#: inc/customizer-options.php:30
+msgid "You might use a logo instead of the site title in the header navigation."
+msgstr ""
+
+#: inc/customizer-options.php:35
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer-options.php:46
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer-options.php:51
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer-options.php:52
+msgid "Bright"
+msgstr ""
+
+#: inc/customizer-options.php:57
+msgid "Brightness of navbar"
+msgstr ""
+
+#: inc/customizer-options.php:66
+msgid "Link color"
+msgstr ""
+
+#: inc/customizer-options.php:77
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer-options.php:83
+msgid "Add search box to primary menu"
+msgstr ""
+
+#: inc/customizer-options.php:95
+msgid "Content"
+msgstr ""
+
+#: inc/customizer-options.php:100
+msgid "Excerpt (trimmed-down output)"
+msgstr ""
+
+#: inc/customizer-options.php:101
+msgid "Content (full post / custom more tag)"
+msgstr ""
+
+#: inc/customizer-options.php:106
+msgid "Content output of standard posts on home and archive pages."
+msgstr ""
+
+#: inc/customizer-options.php:123
+msgid "Sidebar right"
+msgstr ""
+
+#: inc/customizer-options.php:124
+msgid "Sidebar left"
+msgstr ""
+
+#: inc/customizer-options.php:141
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer-options.php:147
+msgid "Custom footer text"
+msgstr ""
+
+#: inc/customizer-options.php:158
+msgid "Advanced"
+msgstr ""
+
+#: inc/customizer-options.php:164
+msgid "Minified CSS and JS"
+msgstr ""
+
+#: inc/extras-penguin-gold.php:104
+msgid "Page %s"
+msgstr ""
+
+#: inc/extras-penguin-gold.php:137
+msgid "Read more"
+msgstr ""
+
+#: inc/extras-penguin-gold.php:150
+msgid "Scroll To Top"
+msgstr ""
+
+#: inc/template-tags.php:24
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:28
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:32
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:107
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:109
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:111
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:113
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:115
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:117
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:137
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:141
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:143
+msgid "Archives"
+msgstr ""
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/meta-bottom.php:3 template-parts/meta-bottom.php:12
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: template-parts/meta-top.php:13
+msgid "Leave a comment"
+msgstr ""
+
+#: template-parts/meta-top.php:13
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/meta-top.php:13
+msgid "% Comments"
+msgstr ""
+
+#: template-parts/meta-top.php:15
+msgid "Edit"
+msgstr ""
+
+#: template-parts/the_content.php:2
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/the_content.php:5
+msgid "Pages:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "PENGU!N Gold"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://wpzoo.ch/themes/penguin-gold/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"PENGU!N is a clean and modern WordPress theme made by WPZOO. Besides the "
+"link color the used colors are monochromatic. The post thumbnail will be "
+"used as a big header image on single post pages as well as Pages. These "
+"theme characteristics make it possible to use PENGU!N for bloggin' as well "
+"as a magazin theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WPZOO"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wpzoo.ch/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-tags.php:113
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:115
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:117
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:119
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:121
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:123
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:125
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:127
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:129
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:131
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:133
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:135
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""

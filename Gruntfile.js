@@ -43,6 +43,16 @@ module.exports = function(grunt) {
 			}
 		},
 
+		makepot: {
+			target: {
+				options: {
+					domainPath: 'languages',
+					exclude: ['inc/customizer-library/extensions/fonts.php'],
+					type: 'wp-theme'
+				}
+			}
+		},
+
 		watch: {
 			options: {
 				livereload: true,
@@ -63,10 +73,12 @@ grunt.loadNpmTasks('grunt-contrib-sass');
 grunt.loadNpmTasks('grunt-fixindent');
 grunt.loadNpmTasks('grunt-contrib-cssmin');
 grunt.loadNpmTasks('grunt-contrib-uglify');
+grunt.loadNpmTasks('grunt-wp-i18n');
 grunt.loadNpmTasks('grunt-contrib-watch');
 
 grunt.registerTask('default', ['watch']);
 grunt.registerTask('css', ['sass','fixindent','cssmin']);
 grunt.registerTask('js', ['uglify']);
+grunt.registerTask('pot', ['makepot']);
 
 };
